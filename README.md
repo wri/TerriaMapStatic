@@ -18,5 +18,6 @@ Features missing in this serverless version:
 How this version is made:
 
 1. Check out https://github.com/TerriaJS/TerriaMap
-2. Install and build
-3. This repository is the contents of the `wwwroot/build` directory.
+2. `npm install`
+3. `gulp release`
+4. This repository is the contents of the `wwwroot/build` directory.
