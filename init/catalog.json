@@ -1,0 +1,44 @@
+{
+"catalog": [
+{
+"name": "Agriculture",
+"type": "esri-mapServer-group",
+"url": "http://gis.forest-atlas.org/arcgis/rest/services/GAB/pnat_agriculture/MapServer"
+},
+{
+"name": "Conservation",
+"type": "esri-mapServer-group",
+"url": "http://gis.forest-atlas.org/arcgis/rest/services/GAB/pnat_conservation/MapServer"
+},
+{
+"name": "Energie",
+"type": "esri-mapServer-group",
+"url": "http://gis.forest-atlas.org/arcgis/rest/services/GAB/pnat_energie/MapServer"
+},
+{
+"name": "Foret",
+"type": "esri-mapServer-group",
+"url": "http://gis.forest-atlas.org/arcgis/rest/services/GAB/pnat_foret/MapServer"
+},
+{
+"name": "Hydrographie",
+"type": "esri-mapServer-group",
+"url": "http://gis.forest-atlas.org/arcgis/rest/services/GAB/pnat_hydrographie/MapServer"
+},
+{
+"name": "Infrastructure",
+"type": "esri-mapServer-group",
+"url": "http://gis.forest-atlas.org/arcgis/rest/services/GAB/pnat_infrastructures_transport/MapServer"
+},
+{
+"name": "Limites administrative",
+"type": "esri-mapServer-group",
+"url": "http://gis.forest-atlas.org/arcgis/rest/services/GAB/pnat_limites_administratives/MapServer"
+},
+{
+"name": "Mines",
+"type": "esri-mapServer-group",
+"url": "http://gis.forest-atlas.org/arcgis/rest/services/GAB/pnat_mines/MapServer"
+}
+]
+}
