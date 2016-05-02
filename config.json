@@ -19,8 +19,8 @@
         "appName": "Terria Map Static",
         "supportEmail-CHANGETHIS": "help@example.com",
         "brandBarElements": [
-            "",
-            "<a href='www.pnat-gabon.ga'>PNAT Gabon</a>",
+            "http://wri.github.io/pnat-landing-page/img/logo/gab-logo.png",
+            "<a href='http://www.pnat-gabon.ga'>PNAT Gabon</a>",
             ""
         ],
         "corsProxyBaseUrl": "http://nationalmap.research.nicta.com.au/proxy/",
