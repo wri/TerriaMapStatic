@@ -1,7 +1,6 @@
 {
     "initializationUrls" : [
-        "terria",
-        "test"
+        "catalog"
     ],
     "parameters": {
         "bingMapsKey": "AkaOmRFtjAb71cXgLwAGtLbj2RpkPKtVqAIroFQsocfurCBILxIeAWPkil7hhRy_",
