@@ -20,7 +20,7 @@
         "supportEmail-CHANGETHIS": "help@example.com",
         "brandBarElements": [
             "",
-            "<a target=\"_blank\" href=\"http://www.nicta.com.au\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
+            "PNAT Gabon",
             ""
         ],
         "corsProxyBaseUrl": "http://nationalmap.research.nicta.com.au/proxy/",
