@@ -20,7 +20,7 @@
         "supportEmail-CHANGETHIS": "help@example.com",
         "brandBarElements": [
             "",
-            "PNAT Gabon",
+            "<a href='www.pnat-gabon.ga'>PNAT Gabon</a>",
             ""
         ],
         "corsProxyBaseUrl": "http://nationalmap.research.nicta.com.au/proxy/",
